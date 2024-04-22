@@ -2,26 +2,26 @@
 ------------------------------------------------------------------------------
 ### 1 - Sistema de Controle
 
-* **1 Placa arduino** - comumente utilizada em projetos simplificados em robótica;
+* **1 Placa arduino uno R3** - comumente utilizada em projetos simplificados em robótica;
 
 ### Sistema de Aquisição para movimentação
 
-* **4 Sensores Ópticos Reflexivos TCRT-5000** -  são utilizados quando as distâncias de medição são pequenas; [Datasheet TCRT5000](link.com) **Colocar link**
+* **4 Sensores Ópticos Reflexivos TCRT-5000** -  são utilizados quando as distâncias de medição são pequenas; [Datasheet TCRT5000]([link.com](https://github.com/PI1-2024-1/PI1-2024-1/blob/main/Repo%20-%20Eletronica/Datasheets/TCRT5000.PDF))
 
 
 ### 2 -Sistema de Comunicação
 
-* **1 Módulo Bluetooth Serial Rs232 Escravo Hc-06** -  converte os dados de medições do arduino e envia por Bluetooth, sendo possível a criação do banco de dados pedido; [Datasheet Hc-06](link.com) **Colocar link**
+* **1 Módulo Bluetooth Serial Rs232 Escravo Hc-06** -  converte os dados de medições do arduino e envia por Bluetooth, sendo possível a criação do banco de dados pedido; [Datasheet Hc-06]([link.com](https://github.com/PI1-2024-1/PI1-2024-1/blob/main/Repo%20-%20Eletronica/Datasheets/HC-06.PDF)) 
 
 ### 2 - Sistema de medição para dados
 
-* **2 Sensor de velocidade módulo encoder** - desacoplador óptico, com ele é possível calcular a distância, velocidade e aceleração;  [Datasheet encoder](link.com) **Colocar link**
+* **2 Sensor de velocidade módulo encoder** - desacoplador óptico, com ele é possível calcular a distância, velocidade e aceleração;  [Datasheet encoder]([link.com](https://github.com/PI1-2024-1/PI1-2024-1/blob/main/Repo%20-%20Eletronica/Datasheets/Encoder.pdf)) 
 * **2 Discos encoder para medição com módulo encoder**;
-* **1 Medidor de Corrente ACS 712** - é um medidor de corrente invasivo, porém não é necessário nenhum dimensionamento de circuito adicional; [Datasheet ACS 712](link.com) **Colocar link**
+* **1 Medidor de Corrente ACS 712** - é um medidor de corrente invasivo, porém não é necessário nenhum dimensionamento de circuito adicional; [Datasheet ACS 712]([link.com](https://github.com/PI1-2024-1/PI1-2024-1/blob/main/Repo%20-%20Eletronica/Datasheets/ACS712.PDF)) 
 
 ### 3 - Sistema de movimento
 
-* **1 Regulador de Tensão XL 4015** - para regular a tensão em até 6V dada a entrada de 7.4;[Datasheet XL 4015](link.com) **Colocar link**
+* **1 Regulador de Tensão XL 4015** - para regular a tensão em até 6V dada a entrada de 7.4;[Datasheet XL 4015]([link.com](https://github.com/PI1-2024-1/PI1-2024-1/blob/main/Repo%20-%20Eletronica/Datasheets/XL4015.PDF)) 
 * **2 Motores de 6V com redutor e rodas**;[Site compra](link.com) **Colocar link**
 
 ### 4 - Bateria	
