@@ -25,6 +25,7 @@
 * **2 Motores de 6V com redutor e rodas**;[Site compra](link.com) **Colocar link**
 
 ### 4 - Bateria	
+#### Dado como exemplo, deve ser revisado pela área de energia
 * **2 Baterias Recarregáveis de 3.7 V 18650** - totalizando 7.4 V;
 	
 ### 5 - Componentes Complementares
@@ -71,4 +72,6 @@
 * **Sensores Encoder**: alimentação 5V;
 * **Medidor de corrente ACS 712**: alimentação 5V;
 * **Regulador de Tensão XL 4015**: Tensão de entrada 7.4V, saída de 5V, deve ser regulada para atender à corrente dos Motores
+
+#### Dado como exemplo, deve ser revisado pela área de energia
 * **Baterias 18650**: Duas baterias em série totalizando 7.4V, pode ser alterada para outro arranjo de outras baterias com tensões entre 7 e 12V porque é o limite de entrada do arduino. 
