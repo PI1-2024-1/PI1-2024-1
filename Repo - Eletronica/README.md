@@ -1,4 +1,8 @@
-# Informações sobre os sistemas eletrônicos do robô
+# Aqui se encontram as informações referentes à área de Eletrônica
+--------------------------------------------------------------------------
+### Reuniões no discord às terças e quintas 18:00 de acordo com demanda
+-----------------------------------------------------------------------------
+## Informações sobre os sistemas eletrônicos do robô
 ------------------------------------------------------------------------------
 ### 1 - Sistema de Controle
 
@@ -58,13 +62,17 @@
 
 **...**
 
-### Software
+### Firmware
 * **Sensores TCRT-5000**: os sensores entregam tensões de 0 a 5V, deve-se calibrar uma variável que indica se está na linha ou não;
 * **Módulo Bluetooth Hc-06**: Só é necessário o envio pela porta serial;
 * **Sensores de Velocidade módulo encoder**: Envia um pulso quando passa por um buraco no disco encoder;
 * **Discos encoder 20 furos**: cada furo corresponde a 3.92 [mm]. 
 * **Motor 6V com redutor**: Para movimento do motor deve-se enviar o sinal PWM pelas saídas definidas no esquemático;
 * **Medidor de corrente  ACS712**: Entrega uma tensão, que para o cálculo da corrente, deve ter uma variável calibrada. Correntes negativas também geram tensões positivas;
+
+### Software
+* **Os dados serão recebidos por software em forma de vetor dados = [Enc direito; Enc esquerdo; velocidade; aceleração] o cálculo da posição relativa do robô é mais fácilmente calculado em software do que em firmware, assim a cada período de comunicação serão enviados os valores do encoder daquele período, por exemplo:**   
+  	* Enc direito = 2; Enc esquerdo = 4; sabe-se que o carrinho andou uma distância em linha reta e outra  para a  direita;
 
 ### Eletrônica / Energia 
 * **Placa arduino**: alimentação 7.4V;
