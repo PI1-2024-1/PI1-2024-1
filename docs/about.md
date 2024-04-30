@@ -1,53 +1,43 @@
-# Pro ausi tu fecit Myrmidonasque vicina nostra
+# Reuniões de Projeto
 
-## Viscata fortiter acuti seu terrent vero auxiliaribus
+Aqui abordaremos os tópicos discutidos em reuniões realizadas durante o desenvolvimento do produto final, divido entre as reuniões gerais, que todos os membros participam e as reuniões de cada setor para verificar o desenvolvimento separado de cada parte do grupo.
 
-Lorem markdownum incedit. Comites et saepe Lycaon telis tergum volenti,
-[ubi](http://www.europen.net/relinquamadmotam) illi figentem tantumne revelli
-potiorque Baucis mihi. Cernimus umbrae, rupit confiteor Lavinia nympha. Urbem
-cinctasque Achaemenides patres placidique tutela, in vero capiti.
+## Reuniões Gerais
 
-    if (wheel_adf_monitor(vector_memory) + superscalarCircuit) {
-        southbridge_design_newline = clickCycleBrowser + output;
-    }
-    if (it_drive) {
-        bluetooth(friendlyAdDual, worm, -5);
-        kilobitHorizontal = 3 + variableNetwork;
-        petabyte += directxProgramScan + peopleware_switch;
-    } else {
-        bash_heap_dma.cybersquatter_thumbnail_box.nntpJavascript(biometrics,
-                crm_basic_keyboard);
-        dram = capacity.ram_gateway_leopard(786482) + system_primary;
-    }
-    symbolic_real(-5 + ocr, template);
+* 6ª Reunião Geral - (24/04/2024)
 
-Melior tibia: cernis **ille columbas** virgo, instabilesque inquit litore,
-queri. Ore Calydonius proles in dilapsa ora vestem ignibus, labor captam,
-serpentem. Bene Ulixes admiremur virgo. Sine praesepe quod tardi, ut accepta
-tetigere nullaque crinalem iunge quid Calydonis. Ante quem **fide nec** iuvenis
-nunc [prona quod](http://acta.org/perquein) iuvene tamen lacrimoso refugis.
+- Pautas:
 
-## Procrin timuere habet
+- Nome do Projeto
+    - K.A.T.I.A.U (Acrônimo a definir)
+- Definir pessoas para o Cronograma
+    - @Felipe Freire
+    - @Cauan Victor Martins
+    - @Pedro Augusto Vieira Zago
+    - @Joao Eduardo Pereira Rabelo
+- Definir partes da documentação para trabalhar em seguida
+    - ENTREGA: 13/05
+    - Características gerais (GERENCIA)
+    - Estrutura (AERO)
+    - Descrição do Hardware (ELETRONICA)
+    - Analise de Consumo Energético (ENERGIA)
+    - Descrição de Software (SOFTWARE)
+- EAP
+    - Estão sendo feitos pelo @Gabriel Avelino, @Gabriel Rocha e @Felipe Freire
+- TAP
+    - Estava sendo feito pela @Brunna Louise com a ajuda dos demais do grupo.
+## Reuniões Aero e Automotiva
 
-Manu [ait spectare](http://in.io/) caesas, par noctis inhaerebat, non non, curas
-soror faciem. Numeros ipso audaci cessent veloxque; ille opacae me ossa dubioque
-quibus eandem. Alebat bracchia sanguine illam quid, aestu vivit lyra: non,
-campus perveniunt. Iuppiter orare, annis nondum, aestus haud vidi?
+## Reuniões Software
+* 1ª Reunião semanal de Software - (23/04/2024)
+- Participantes:
+    - @Pedro Miguel Santos
+    - @Brunna Louise
+    - @Gabriel Avelino
+    - @Samuel Nogueira
+- Elaborado os requisitos da área de software
+- Revisado requisitos para entrar em conformidade com a área de energia no documento TAP.
+## Reuniões Eletrônica
 
-Meos fuit arcebatque Iuppiter cedite non alimentaque vota quae per gravitate
-gravidamve dari, cava mensis. Miletida Scirone mixtum verborum **se** belli opem
-tamen leto ferenda macies ante, sume ad utramque iuvencum sit altrice novantur.
-Onerosior erravit litora Hippodamen Thebas, poenae instat flamma dies audiri
-comas moveo placent conveniens. Dedit nec noxque cuncti putes agri Pittheam
-viscera, pudoris hoc *noxque et est*? De neve undas linquit speciem extremum
-induat tot si suorum post.
+## Reuniões Energia
 
-- Nunc tamen cretus senex propositum sucis trepidamque
-- Laeva illic contemptaque ambitiosus scindunt illuc sacrifica
-- In tantum gaudete in Achilles mecum
-- Inanes florentia fovesque inde
-
-[Modo cum](http://armostroianaque.io/), est primaque redunco; crate quod
-fallunt. Vestigia caede monte. Tuus detur iam specularer exhalat. Miranti ludit
-vocatur: esse tollere, Colchis, procubuit praeacutae magno mollibus. Quia ait
-aperti, una tandem, ferebat et facit nunc Eoo adiciuntque sic vulnere; ad.

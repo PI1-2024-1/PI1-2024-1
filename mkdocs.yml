@@ -1,5 +1,5 @@
 site_name: KATIAU
 nav:
-  - Home: index.md
-  - About: about.md
+  - K.A.T.I.A.U: index.md
+  - Projeto: about.md
 theme: readthedocs
