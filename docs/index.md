@@ -1,4 +1,4 @@
-# K.A.T.I.A.U ⚡
+# K.A.T.I.A.U ⚡ ![UNB](img/Unb.png)
 
 # Projeto Integrador 1 - UNB
 
@@ -6,7 +6,7 @@ Bem-vindo à página inicial do projeto integrador da matéria PI1 da Universida
 
 ## Sobre o Projeto
 
-Nosso projeto visa criar um carrinho robótico capaz de seguir uma linha destacada no chão de forma autônoma e em alta velocidade. Utilizamos tecnologias avançadas de controle e sensores para alcançar esse objetivo.
+Nosso projeto visa criar um carrinho robótico cujo nome é K.A.T.I.A.U (Kart de Alta Tecnologia Integrada, Autônoma e Única), capaz de seguir uma linha destacada no chão de forma autônoma e em alta velocidade. Utilizamos tecnologias avançadas de controle e sensores para alcançar esse objetivo.
 
 ## Objetivos
 
