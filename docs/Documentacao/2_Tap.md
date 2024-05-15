@@ -36,9 +36,7 @@ O projeto do carrinho seguidor de linha estabelece 4 principais objetivos SMART
 (Específicos, Mensuráveis, Alcançáveis, Relevantes e Temporais) que guiarão suas ativi-
 dades e direcionarão seus esforços para alcançar resultados concretos e mensuráveis.
 
-___________________________________________________________________________________
-
-## Trajetos Completos
+### Trajetos Completos
 
 O primeiro objetivo do projeto é garantir que o carrinho seja capaz de percorrer
 completamente três trilhas marcadas no chão.<br> 
@@ -48,10 +46,7 @@ três trilhas definidas.<br>
 Este objetivo é mensurável pelo número de trilhas completadas com sucesso durante os testes
 e apresentações do carrinho.
 
-___________________________________________________________________________________
-
-
-## Proteção do Ovo
+### Proteção do Ovo
 
 O segundo objetivo concentra-se na integridade do ovo de galinha que o carrinho
 carregará durante os trajetos.<br> 
@@ -61,9 +56,7 @@ estável.<br>
 Isso será mensurado pela condição do ovo ao final de cada trajeto, verificando se
 permanece íntegro e sem danos significativos.
 
-___________________________________________________________________________________
-
-## Desempenho Temporal
+### Desempenho Temporal
 
 O terceiro objetivo do projeto é otimizar o tempo de percurso do carrinho.<br>
 Isso implica completar os trajetos no menor tempo possível, demonstrando eficiência 
@@ -71,9 +64,7 @@ e velocidade no deslocamento do carrinho.<br>
 Este objetivo é mensurável pelo tempo registrado para cada trajeto, 
 desde o início até a conclusão, durante os testes e competições.
 
-___________________________________________________________________________________
-
-## Autonomia e Funcionalidade
+### Autonomia e Funcionalidade
 
 O quarto objetivo do projeto é assegurar que o carrinho seja totalmente autônomo
 e operacional, sem a necessidade de controle externo durante os trajetos.<br>
