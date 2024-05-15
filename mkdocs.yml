@@ -3,7 +3,8 @@ site_name: KATIAU
 nav:
   - K.A.T.I.A.U ⚡: index.md
   - Atas: Atas\Reuniões
-  - Projeto Conceitual: Projeto-conceitual 
+  - Projeto Conceitual: Documentacao
+ 
 theme: readthedocs
 plugins:
   - search
