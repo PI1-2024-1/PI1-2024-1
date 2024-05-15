@@ -1,5 +1,10 @@
 site_name: KATIAU
+
 nav:
-  - K.A.T.I.A.U: index.md
-  - Projeto: about.md
+  - K.A.T.I.A.U ⚡: index.md
+  - Atas: Atas\Reuniões
+  - Projeto Conceitual: Projeto-conceitual 
 theme: readthedocs
+plugins:
+  - search
+  - include_dir_to_nav
